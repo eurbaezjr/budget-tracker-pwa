@@ -2,7 +2,7 @@
 
 For this repository we were tasked to transform an existing budget tracker application into a PWA (Progressive Web App). 
 
-The benefit us such tactics is that users will may have the option to download the application for offline functionality that acts as if it were a native mobile app. 
+The benefit of such tactics is that users will have the option to download the application for offline functionality similar to native applications. 
 
 In order to convert the budget tracker to PWA, we had to add the following.
 
